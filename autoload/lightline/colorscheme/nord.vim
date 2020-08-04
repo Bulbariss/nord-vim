@@ -8,7 +8,7 @@
 let s:nord_vim_version="0.15.0"
 let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
 
-let s:nord0 = ["#2E3440", "NONE"]
+let s:nord0 = ["#00ff00", "NONE"]
 let s:nord1 = ["#3B4252", 0]
 let s:nord2 = ["#434C5E", "NONE"]
 let s:nord3 = ["#4C566A", 8]
